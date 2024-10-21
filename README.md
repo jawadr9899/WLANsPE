@@ -1,4 +1,4 @@
-# WiFi Passwords Extractor
+# WLANs Password Extractor
 
 This is a small Python script that gets the passwords of all connected WLANs networks on a Windows machine 
 and writes it to a *.txt file.
